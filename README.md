@@ -16,11 +16,15 @@ To run this application locally, you need to have Python installed along with th
 
 * Streamlit
 * Whisper
+* Torch
 
 You can install the required packages using the following commands:
 ```
 pip install streamlit
-pip install whisper
+pip install openai-whisper
+pip install torch
+pip install torchaudio
+pip install torchvision
 ```
 
 ## How to Run
